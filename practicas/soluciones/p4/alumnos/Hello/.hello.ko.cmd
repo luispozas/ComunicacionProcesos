@@ -1,0 +1,1 @@
+cmd_/home/usuarioso/Descargas/P4/alumnos/Hello/hello.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/usuarioso/Descargas/P4/alumnos/Hello/hello.ko /home/usuarioso/Descargas/P4/alumnos/Hello/hello.o /home/usuarioso/Descargas/P4/alumnos/Hello/hello.mod.o ;  true

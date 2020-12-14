@@ -1,0 +1,1 @@
+cmd_/home/usuarioso/Descargas/P4/alumnos/Modleds/modleds.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/usuarioso/Descargas/P4/alumnos/Modleds/modleds.ko /home/usuarioso/Descargas/P4/alumnos/Modleds/modleds.o /home/usuarioso/Descargas/P4/alumnos/Modleds/modleds.mod.o ;  true
